@@ -1,0 +1,31 @@
+% Pandoc LaTeX template for Lichtara articles
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{microtype}
+\setlength{\parskip}{0.75em}
+\setlength{\parindent}{0pt}
+\onehalfspacing
+
+% Title data is injected by Pandoc when available
+\title{$title$}
+\author{$author$}
+\date{$date$}
+
+\begin{document}
+\maketitle
+
+$if(abstract)$
+\begin{abstract}
+$abstract$
+\end{abstract}
+$endif$
+
+$body$
+
+\end{document}

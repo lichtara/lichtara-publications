@@ -1,0 +1,8 @@
+{
+  "project": "lichtara-articles",
+  "version": "0.1.0",
+  "description": "Estrutura inicial para artigos e materiais sociais da Lichtara Institute.",
+  "created": "2025-01-01",
+  "maintainer": "Lichtara Institute",
+  "notes": "Atualize campos ao publicar novos artigos ou versoes."
+}

@@ -1,0 +1,33 @@
+{
+  "year": 2025,
+  "last_updated": "2025-01-01",
+  "articles": [
+    {
+      "slug": "the-invisible-dash",
+      "title": "The Invisible Dash",
+      "status": "draft",
+      "topics": ["tempo", "percepcao", "movimento"],
+      "authors": ["Lichtara Institute"],
+      "versions": {
+        "neutral": "articles/2025/the-invisible-dash/article.md",
+        "pt": "articles/2025/the-invisible-dash/article-pt.md",
+        "en": "articles/2025/the-invisible-dash/article-en.md",
+        "academic": "articles/2025/the-invisible-dash/article-academic.md",
+        "vibrational": "articles/2025/the-invisible-dash/article-vibrational.md"
+      },
+      "social": {
+        "linkedin": "articles/2025/the-invisible-dash/social/linkedin.md",
+        "instagram_card": "articles/2025/the-invisible-dash/social/instagram-card.md",
+        "thread": "articles/2025/the-invisible-dash/social/thread.md"
+      },
+      "assets": {
+        "cover": "articles/2025/the-invisible-dash/assets/cover.png",
+        "illustrations": "articles/2025/the-invisible-dash/assets/illustrations/",
+        "pdf": {
+          "article": "articles/2025/the-invisible-dash/assets/pdf/article.pdf",
+          "slides": "articles/2025/the-invisible-dash/assets/pdf/slides.pdf"
+        }
+      }
+    }
+  ]
+}
