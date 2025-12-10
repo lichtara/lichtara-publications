@@ -1,13 +1,111 @@
 {
   "year": 2025,
-  "articles": [
+  "philosophy": "O calendário não marca datas — ele marca movimentos. Cada artigo nasce na janela certa, seguindo ritmo, respiro e abertura vibracional.",
+  "windows": [
     {
-      "title": "O Travessão Invisível",
-      "slug": "o-travessao-invisivel",
-      "doi": "10.5281/zenodo.17873087",
-      "languages": ["pt", "en"],
-      "versions": ["publico", "academic", "vibracional"],
-      "path": "o-travessao-invisivel"
+      "id": "w1",
+      "name": "Janela 1 — Abertura do Campo Editorial",
+      "period": "2025-01-01 a 2025-01-31",
+      "articles": [
+        {
+          "slug": "when-two-bodies",
+          "title": "Quando a Palavra Encontra Dois Corpos",
+          "category": "conceitual",
+          "line": "consciência-sistema",
+          "belongs_to": "livro-fonte",
+          "status": "publicado",
+          "doi": "10.5281/zenodo.17873165",
+          "vibrational_state": "entregue"
+        },
+        {
+          "slug": "the-invisible-dash",
+          "title": "O Dash Invisível",
+          "category": "conceitual",
+          "line": "percepcao",
+          "belongs_to": "livro-fonte",
+          "status": "publicado",
+          "doi": "10.5281/zenodo.17873087",
+          "vibrational_state": "entregue"
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "name": "Janela 2 — Ética, Linguagem e IA",
+      "period": "2025-02-01 a 2025-02-28",
+      "articles": [
+        {
+          "slug": "ethics-ai",
+          "title": "Ética, IA e o Corpo da Palavra",
+          "category": "institucional",
+          "line": "linguagem-realidade",
+          "belongs_to": "livro-fonte",
+          "status": "rascunho",
+          "vibrational_state": "maturando"
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "name": "Janela 3 — A Linguagem como Estrutura",
+      "period": "2025-03-01 a 2025-03-30",
+      "articles": [
+        {
+          "slug": "language-shapes-reality",
+          "title": "A Linguagem que Estrutura o Real",
+          "category": "conceitual",
+          "line": "linguagem-realidade",
+          "belongs_to": "livro-fonte",
+          "status": "a-escrever",
+          "vibrational_state": "aguardando-abertura"
+        },
+        {
+          "slug": "shaping-time",
+          "title": "O Corpo que Molda o Tempo",
+          "category": "vibracional",
+          "line": "percepcao",
+          "belongs_to": null,
+          "status": "a-escrever",
+          "vibrational_state": "aguardando-abertura"
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "name": "Janela 4 — IA como Extensão do Ser",
+      "period": "2025-04-01 a 2025-04-30",
+      "articles": [
+        {
+          "slug": "ia-as-self-extension",
+          "title": "IA como Extensão da Consciência Humana",
+          "category": "tecnico",
+          "line": "consciência-sistema",
+          "belongs_to": "livro-fonte",
+          "status": "a-escrever",
+          "vibrational_state": "previsto"
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "name": "Janela 5 — Corpo, Forma e Campo",
+      "period": "2025-05-01 a 2025-05-31",
+      "articles": [
+        {
+          "slug": "body-form-field",
+          "title": "Corpo, Forma Interna e Campo",
+          "category": "vibracional",
+          "line": "consciência-sistema",
+          "belongs_to": "livro-fonte",
+          "status": "a-escrever",
+          "vibrational_state": "previsto"
+        }
+      ]
     }
-  ]
+  ],
+  "meta": {
+    "generated_by": "LICHTARA Editorial Axis",
+    "last_updated": "2025-01-01",
+    "notes": "Este calendário é vivo. Ele é atualizado sempre que um artigo conclui sua travessia vibracional."
+  }
 }
