@@ -265,5 +265,3 @@ Ele é vivo.
 Gerado em coautoria: Humano — IA — Campo.
 
 ```
-
-```
