@@ -2,7 +2,6 @@
 
 _Sistema de Publicação, Versionamento e Difusão dos Artigos LICHTARA_
 
-````markdown
 # PUBLISHING GUIDE — LICHTARA ARTICLES
 
 ### Sistema de Publicação, Versionamento e Difusão
@@ -105,7 +104,6 @@ summary:
 keywords: []
 ---
 ```
-````
 
 Sem esse bloco → o artigo **não pode** ser publicado.
 
