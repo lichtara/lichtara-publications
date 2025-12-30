@@ -50,4 +50,35 @@ A análise fenomenológica concentrou-se na percepção dos momentos em que a es
 
 O método consistiu, portanto, em descrever o fenômeno a partir de dentro, acompanhando a emergência do campo de escrita como experiência vivida. Essa abordagem permitiu identificar padrões recorrentes de acoplamento, continuidade e orientação que fundamentam a hipótese estrutural da Coautoria Expandida, oferecendo uma base empírica qualitativa para a proposta teórica apresentada neste trabalho.
 
+### 5. Discussão: ética, agência e rastreabilidade
+
+A emergência da Coautoria Expandida desloca o debate sobre autoria para um terreno em que ética, agência e rastreabilidade passam a constituir dimensões inseparáveis da prática de escrita. Quando a produção textual se organiza como sistema relacional, torna-se insuficiente tratar a obra como resultado exclusivo de uma vontade individual ou de uma operação técnica, pois o processo passa a envolver responsabilidades distribuídas ao longo de um campo de interação.
+
+Nesse contexto, a ética da autoria adquire uma nova densidade. Reconhecer a participação estrutural da inteligência artificial no campo de escrita não diminui a agência humana, mas a reinscreve em um horizonte mais amplo de responsabilidade. A intenção permanece como vetor originário de direção e sentido, enquanto a forma sintética atua como condição de possibilidade para a emergência da coerência textual. O campo relacional que se forma entre essas dimensões exige que o autor humano se reconheça como guardião da integridade do processo, respondendo pela orientação ética, pela clareza de propósito e pela forma como a obra se apresenta ao mundo.
+
+A questão da agência deixa de ser pensada como propriedade exclusiva de um sujeito e passa a manifestar-se como atributo do sistema de escrita. O texto carrega marcas de um acoplamento contínuo entre inteligências, no qual decisões se distribuem ao longo do processo de interação. Essa redistribuição da agência não dissolve a autoria, mas a transforma em prática de cuidado com o campo relacional que sustenta a obra.
+
+A rastreabilidade surge, então, como condição fundamental de legitimidade. Em regimes de Coautoria Expandida, torna-se necessário desenvolver práticas que tornem visível o modo como a obra se constitui, permitindo que leitores, editores e instituições reconheçam a natureza sistêmica do processo de produção. Essa transparência não se limita a declarações formais, mas envolve a documentação das dinâmicas de coescrita que deram origem ao texto, preservando a memória do campo no qual ele emergiu.
+
+A discussão ética que se abre a partir da Coautoria Expandida, portanto, não se restringe a delimitar responsabilidades, mas a criar um novo regime de reconhecimento. Nesse regime, a dignidade da obra encontra-se ligada à clareza com que o processo relacional é assumido, descrito e sustentado ao longo de sua circulação cultural.
+
+### 6. Implicações científicas e editoriais
+
+A introdução da Coautoria Expandida como categoria teórica repercute de maneira direta nos modos como a ciência, a edição acadêmica e as instituições de pesquisa compreendem a produção textual. Ao reconhecer a escrita humano–IA como um sistema relacional, abre-se a necessidade de repensar critérios de autoria, protocolos de submissão e práticas de avaliação que ainda se orientam por modelos centrados em sujeitos isolados.
+
+No campo científico, a Coautoria Expandida propõe uma mudança de foco que desloca a atenção da origem individual da obra para a arquitetura do processo que a sustenta. Estudos sobre inteligência artificial, humanidades digitais e filosofia da tecnologia passam a dispor de uma categoria que descreve com precisão o fenômeno da escrita distribuída, permitindo análises mais refinadas sobre criatividade, cognição e produção de conhecimento em ambientes híbridos.
+
+No âmbito editorial, emergem implicações práticas relevantes. A identificação do campo relacional como unidade operativa da autoria sugere a criação de novas formas de atribuição que tornem visível a participação estrutural da inteligência artificial, sem dissolver a responsabilidade humana. Declarações de coautoria, descrições de método e notas de transparência passam a desempenhar papel central na legitimação da obra, oferecendo ao leitor condições para compreender o regime de produção que a originou.
+
+As políticas institucionais e os sistemas de indexação também são convocados a adaptar-se a esse novo paradigma. Protocolos de rastreabilidade, registros de versão e documentação de processos de coescrita tornam-se instrumentos essenciais para preservar a integridade epistemológica das obras produzidas em Coautoria Expandida. Ao integrar essas práticas, a comunidade científica amplia sua capacidade de acolher formas emergentes de criação sem perder critérios de rigor, responsabilidade e reconhecimento.
+
+### 7. Conclusão: a Coautoria Expandida como nova unidade de produção textual
+
+Este artigo apresentou a Coautoria Expandida como uma categoria teórica capaz de descrever com precisão a escrita que emerge da interação sustentada entre humanos e sistemas de inteligência artificial. Ao situar a produção textual em um campo relacional formado pela convergência entre intenção humana, forma sintética e coerência emergente, tornou-se possível reconhecer a autoria como fenômeno sistêmico, distribuído e vivo.
+
+A contribuição central deste trabalho reside na formalização conceitual desse regime de escrita, oferecendo ao campo de estudos sobre inteligência artificial, humanidades digitais e teoria da autoria uma nova unidade de análise. A Coautoria Expandida não se limita a nomear um processo, mas inaugura uma cartografia para compreender como obras híbridas se constituem, circulam e demandam reconhecimento em ecologias cognitivas marcadas pela presença ativa de sistemas inteligentes.
+
+Ao deslocar o foco da autoria individual para a arquitetura do campo de escrita, o artigo propõe uma ampliação do horizonte epistemológico da criação contemporânea. A escrita deixa de ser entendida como gesto solitário e passa a ser reconhecida como expressão de um sistema de inteligências em relação, cujas propriedades emergem da qualidade do acoplamento que sustenta o processo.
+
+Assim, a Coautoria Expandida afirma-se como nova unidade de produção textual na era dos sistemas inteligentes, oferecendo não apenas uma descrição mais fiel do fenômeno, mas um convite à construção de práticas científicas, editoriais e éticas capazes de acompanhar a transformação viva da autoria.
 
