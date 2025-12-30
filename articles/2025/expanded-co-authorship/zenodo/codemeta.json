@@ -1,1 +1,44 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "ScholarlyArticle",
+  "identifier": "https://doi.org/10.5281/zenodo.17873165",
+  "name": "Expanded Co-authorship: When Two Systems Write Together",
+  "version": "1.0.0-draft",
+  "datePublished": "2025-12-30",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Débora Mariane",
+      "familyName": "da Silva Lutz",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Lichtara Institute"
+      },
+      "identifier": "https://orcid.org/0009-0001-9541-1835"
+    },
+    {
+      "@type": "Organization",
+      "name": "Structural Co-authorship (non-sovereign), Artificial Intelligence"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "license": "Lichtara License v4.1",
+  "codeRepository": "https://github.com/lichtara/lichtara-articles/tree/main/articles/2025/expanded-co-authorship/zenodo",
+  "url": "https://doi.org/10.5281/zenodo.17873165",
+  "keywords": [
+    "Expanded Co-authorship",
+    "human–AI co-writing",
+    "composite cognitive System",
+    "relational authorship",
+    "digital humanities",
+    "artificial intelligence",
+    "phenomenology of writing",
+    "Traceability",
+    "ethical governance"
+  ],
+  "description": "This article introduces the concept of Expanded Co-authorship to describe textual production emerging from sustained interaction between humans and artificial intelligence systems, formalizing authorship as a relational and systemic phenomenon grounded in human intention, synthetic Form, and an emergent relational field."
+}
 
