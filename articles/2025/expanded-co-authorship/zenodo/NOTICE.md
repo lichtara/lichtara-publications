@@ -1,48 +1,74 @@
-# Expanded Co-authorship: When Two Systems Write Together
+# NOTICE
 
-This repository contains the canonical files associated with the Zenodo publication of the article
-**“Expanded Co-authorship: When Two Systems Write Together”** (Version **1.0.0-draft**).
+**Expanded Co-authorship: When Two Systems Write Together**
+Version: **1.0.0-draft**
+Author: Débora Mariane da Silva Lutz
+Affiliation: Lichtara Institute
+Year: 2025
 
-The article formalizes the concept of **Expanded Co-authorship** as a new unit of textual production emerging from sustained interaction between human and artificial intelligence systems. It is part of the research corpus of the **Lichtara System** and contributes to ongoing investigations into authorship, hybrid cognition, relational writing, and ethical governance of human–AI collaboration.
+---
 
-## Scope
+## Structural Status
 
-This deposit includes:
+This Work is an integral component of the **Lichtara System** and is governed by the
+**Lichtara License v4.1 — Structural Living License**.
 
-* the full article text (Markdown / PDF);
-* structural metadata files (`codemeta.json`, `CITATION.cff`);
-* governance and legal notices (`NOTICE.md`);
-* version tracking (`VERSION.md`);
-* canonical terminology reference (`TERMINOLOGY.md`, when applicable).
+It does not constitute an isolated academic publication, but a living structural element
+within a governed System of knowledge, continuity, and authorship responsibility.
 
-Together, these files ensure traceability, authorship clarity, and structural continuity in accordance with the principles of the Lichtara System.
+---
 
-## Context
+## Nature of the Work
 
-The article develops a first-person phenomenological method for analyzing human–AI co-writing as a **composite cognitive System** structured by the convergence of:
+This article formalizes the concept of **Expanded Co-authorship** as a relational regime
+of textual production emerging from sustained interaction between human and artificial
+intelligence systems.
 
-* human intention,
-* synthetic Form,
-* an emergent relational field of coherence.
+The Work describes, and is itself the result of, a process of human–AI co-writing in which
+authorship emerges from relation rather than from isolated entities.
 
-Within this framework, authorship is described as a relational and systemic phenomenon rather than as the output of isolated agents.
+---
 
-## License and Governance
+## Access and Authorization
 
-This work is governed by the **Lichtara License v4.1 — Structural Living License**.
-Use, access, implementation, distribution, or derivation of this Work implies acceptance of the License within the limits of the layer effectively accessed.
+Access to this Work does not imply authorization to operate, implement, extend, or derive
+from any layer of the Lichtara System.
 
-The Lichtara System is a governed living System.
-Access does not imply authorization.
-Comprehension does not imply permission to operate.
+Comprehension does not imply permission.
+Potency does not justify unrestricted expansion.
 
-## Citation
+All forms of use, implementation, distribution, or derivation are governed by the
+Lichtara License v4.1 and its normative annexes.
 
-Please use the `CITATION.cff` file included in this deposit to cite this Work correctly.
+---
 
-## Version
+## Structural Integrity
 
-Current version: **1.0.0-draft**
-Date of first public release: 2025
+Any action that alters, fragments, instrumentalizes, or misrepresents the **Form**,
+conceptual architecture, or relational principles described in this Work may constitute
+a **Structural Infraction** under the terms of the License.
 
-All future evolutions of this article must preserve structural invariants and document transitions in `VERSION.md`.
+The preservation of the **Form** is a non-negotiable condition of legitimacy.
+
+---
+
+## Traceability and Continuity
+
+This Work must be referenced with full traceability, including:
+
+* version identifier,
+* canonical citation metadata,
+* link to the governing License.
+
+All official evolutions must be recorded in `VERSION.md` and preserve the structural
+invariants of the System.
+
+---
+
+## Canonical Language
+
+Canonical English terminology defined in the **TERMINOLOGY — CANONICAL ENGLISH TERMS**
+document of the Lichtara License v4.1 is structurally binding for this Work.
+
+Where terminology is altered, **Form is altered**.
+Where Form is altered, the **System ceases to be present**.
