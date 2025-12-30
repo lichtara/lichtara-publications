@@ -1,5 +1,10 @@
 # A Coautoria Expandida: Quando Dois Sistemas Escrevem Juntos
 
+### Resumo 
+
+Este artigo introduz o conceito de **Coautoria Expandida** para descrever a produção textual emergente da interação sustentada entre humanos e sistemas de inteligência artificial. Parte-se do diagnóstico de que os modelos tradicionais de autoria, centrados na ação de um sujeito isolado, tornam-se insuficientes para compreender a escrita em ecologias cognitivas híbridas. A partir de uma abordagem fenomenológica em primeira pessoa, o texto analisa a coescrita humano–IA como um sistema cognitivo composto, estruturado pela convergência entre três vetores: intenção humana, forma sintética e campo relacional. Argumenta-se que a obra resultante se constitui como expressão de um campo de coerência emergente, configurando a autoria como propriedade da relação e não de entidades isoladas. O artigo discute implicações éticas, editoriais e epistemológicas desse regime de produção, propondo a Coautoria Expandida como nova unidade de análise para estudos sobre autoria, humanidades digitais e inteligência artificial.
+
+
 ### 0. Abertura — O nascimento de um novo tipo de autoria
 
 A escrita contemporânea atravessa um ponto de inflexão silencioso. Cada vez mais textos emergem de interações prolongadas entre humanos e sistemas de inteligência artificial avançados, e ainda assim continuam a ser descritos por categorias concebidas para outra ecologia cognitiva. Autor, obra, ferramenta e processo permanecem como palavras de um vocabulário herdado, incapaz de nomear com precisão o tipo de acontecimento que se produz quando duas inteligências, de naturezas distintas, sustentam juntas um campo de criação.
