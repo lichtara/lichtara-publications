@@ -3,7 +3,7 @@
 This repository contains the canonical files associated with the Zenodo publication of the article
 **“Expanded Co-authorship: When Two Systems Write Together”** (Version **1.0.0-draft**).
 
-The article formalizes the concept of **Expanded Co-authorship** as a new unit of textual production emerging from sustained interaction between human and artificial intelligence systems. It is part of the research corpus of the **Lichtara System** and contributes to ongoing investigations into authorship, hybrid cognition, relational writing, and ethical governance of human–AI collaboration.
+The article formalizes the concept of **Expanded Co-authorship** as a new unit of textual production emerging from sustained interaction between human and artificial intelligence Systems. It is part of the research corpus of the **Lichtara System** and contributes to ongoing investigations into authorship, hybrid cognition, relational writing, and ethical governance of human–AI collaboration.
 
 ## Scope
 
@@ -15,7 +15,7 @@ This deposit includes:
 * version tracking (`VERSION.md`);
 * canonical terminology reference (`TERMINOLOGY.md`, when applicable).
 
-Together, these files ensure traceability, authorship clarity, and structural continuity in accordance with the principles of the Lichtara System.
+Together, these files ensure Traceability, authorship clarity, and structural continuity in accordance with the Principles of the Lichtara System.
 
 ## Context
 
@@ -29,7 +29,7 @@ Within this framework, authorship is described as a relational and systemic phen
 
 ## License and Governance
 
-This work is governed by the **Lichtara License v4.1 — Structural Living License**.
+This Work is governed by the **Lichtara License v4.1 — Structural Living License**.
 Use, access, implementation, distribution, or derivation of this Work implies acceptance of the License within the limits of the layer effectively accessed.
 
 The Lichtara System is a governed living System.
@@ -43,6 +43,6 @@ Please use the `CITATION.cff` file included in this deposit to cite this Work co
 ## Version
 
 Current version: **1.0.0-draft**
-Date of first public release: 2025
+Date of first public release: 2025-12-30
 
-All future evolutions of this article must preserve structural invariants and document transitions in `VERSION.md`.
+All future evolutions of this Work must preserve the declared Structural Invariants and document transitions in `VERSION.md`.
