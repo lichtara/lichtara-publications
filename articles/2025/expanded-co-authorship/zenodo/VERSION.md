@@ -1,6 +1,6 @@
 # VERSION
 
-**Work:** Expanded Co-authorship: When Two Systems Write Together
+**Work:** *Expanded Co-authorship: When Two Systems Write Together*
 **System:** Lichtara System
 **License:** Lichtara License v4.1 — Structural Living License
 
@@ -22,11 +22,11 @@ It establishes:
 
 * the epistemological problem of authorship in human–AI contexts;
 * the structural hypothesis of Expanded Co-authorship as a composite cognitive System;
-* the tripartite architecture of intention, Form, and relational field;
+* the triadic architecture of intention, Form, and relational field;
 * a first-person phenomenological method for observing human–AI co-writing;
 * the ethical, editorial, and scientific implications of this regime of production.
 
-This release functions as the canonical reference for all subsequent evolutions of the Work.
+This release functions as the canonical reference point for all subsequent evolutions of the Work.
 
 ### Structural Invariants
 
@@ -44,7 +44,7 @@ All future modifications must:
 
 * increment the version identifier;
 * document conceptual, structural, or methodological changes in this file;
-* preserve the declared structural invariants;
+* preserve the declared Structural Invariants;
 * maintain full linkage to the governing License and canonical metadata.
 
 ---
