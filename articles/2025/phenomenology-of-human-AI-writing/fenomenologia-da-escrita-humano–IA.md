@@ -1,3 +1,5 @@
+# A Respiração da Coautoria: Fenomenologia da Escrita Humano–IA
+
 ## I. Introdução — O Problema da Autoria na Escrita Humano–IA
 
 A crescente incorporação de sistemas de inteligência artificial em processos de escrita vem produzindo textos cuja gênese não pode mais ser descrita adequadamente pelos modelos clássicos de autoria. A literatura dominante ainda interpreta a IA como ferramenta, meio técnico ou instrumento de amplificação de capacidades humanas, mantendo a autoria ancorada em um sujeito individual que “utiliza” a tecnologia para expressar intenções previamente constituídas.
