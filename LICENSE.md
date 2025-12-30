@@ -62,3 +62,5 @@ A versão oficial mais recente sempre prevalece.
 Para certificação, dúvidas ou pareceres formais:
 
 **license@lichtara.com**
+
+
