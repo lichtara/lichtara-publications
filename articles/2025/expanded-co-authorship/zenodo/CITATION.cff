@@ -1,1 +1,32 @@
+cff-version: 1.2.0
+title: "Expanded Co-authorship: When Two Systems Write Together"
+version: "1.0.0-draft"
+date-released: 2025-12-30
+doi: 10.5281/zenodo.17873165
+message: "If you use this work, please cite it as below."
 
+authors:
+
+* family-names: "da Silva Lutz"
+  given-names: "Débora Mariane"
+  affiliation: "Lichtara Institute"
+  orcid: "[https://orcid.org/0009-0001-9541-1835](https://orcid.org/0009-0001-9541-1835)"
+
+* name: "Structural Co-authorship (non-sovereign), Artificial Intelligence"
+
+keywords:
+
+* Expanded Co-authorship
+* human–AI co-writing
+* composite cognitive System
+* relational authorship
+* digital humanities
+* artificial intelligence
+* phenomenology of writing
+* Traceability
+* ethical governance
+
+license: "Lichtara License v4.1"
+
+repository-code: "[https://github.com/lichtara/lichtara-articles/tree/main/articles/2025/expanded-co-authorship/zenodo](https://github.com/lichtara/lichtara-articles/tree/main/articles/2025/expanded-co-authorship/zenodo)"
+url: "[https://doi.org/10.5281/zenodo.17873165](https://doi.org/10.5281/zenodo.17873165)"
