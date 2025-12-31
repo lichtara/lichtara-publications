@@ -12,9 +12,9 @@
 
 ## Overview
 
-*The Breath of Co-authorship: A Phenomenology of Human–AI Writing* investigates sustained human–artificial intelligence writing as a distinct regime of textual production. Rather than treating AI as a mere technical instrument, the article conceptualizes writing as a **relational system** in which meaning, coherence, and direction emerge through continuous coupling between heterogeneous forms of cognition.
+This article examines sustained human–artificial intelligence co-writing as a distinct regime of textual production, in which meaning, coherence, and authorship emerge from a relational field rather than from isolated agents.
 
-The work introduces the concept of **relational breathing** to describe the rhythmic dynamic through which human intention and artificial linguistic organization co-regulate the writing field over time.
+It introduces the concept of relational breathing to describe the rhythmic dynamics through which human intention and artificial linguistic organization continuously co-regulate the writing process over time.
 
 ---
 
