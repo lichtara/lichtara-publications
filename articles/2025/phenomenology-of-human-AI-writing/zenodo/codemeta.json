@@ -1,11 +1,11 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "ScholarlyArticle",
-  "identifier": "https://doi.org/10.5281/zenodo.17873087",
+  "@id": "https://doi.org/10.5281/zenodo.17873087",
   "name": "The Breath of Co-authorship: A Phenomenology of Human–AI Writing",
   "version": "1.0.0-draft",
   "datePublished": "2025-12-30",
-  "description": "This article introduces the concept of relational breathing to describe sustained human–AI writing as a relational regime of meaning production. It proposes a phenomenological methodology for observing co-writing as a dynamic system and reconceptualizes authorship as a systemic, ethical function grounded in custodianship of the relational field.",
+  "description": "This article introduces the concept of relational breathing to describe sustained human–AI writing as a relational regime of meaning production. It proposes a phenomenological methodology for observing co-writing as a dynamic system and reconceptualizes authorship as a systemic ethical function grounded in custodianship of the relational field.",
   "author": [
     {
       "@type": "Person",
@@ -18,8 +18,12 @@
       "identifier": "https://orcid.org/0009-0001-9541-1835"
     },
     {
-      "@type": "Organization",
-      "name": "Structural Co-authorship (non-sovereign), Artificial Intelligence"
+      "@type": "Role",
+      "roleName": "Structural Co-authorship (non-sovereign)",
+      "creator": {
+        "@type": "Organization",
+        "name": "Artificial Intelligence"
+      }
     }
   ],
   "publisher": {
@@ -29,7 +33,7 @@
   "license": "Lichtara License v4.1",
   "inLanguage": "en",
   "keywords": [
-    "human–AI co-authorship",
+    "human AI coauthorship",
     "relational writing",
     "phenomenology of writing",
     "hybrid cognition",
@@ -40,16 +44,17 @@
     "knowledge governance",
     "Lichtara System"
   ],
-  "relatedLink": [
+  "url": [
     "https://doi.org/10.5281/zenodo.18010273",
     "https://doi.org/10.5281/zenodo.17934020"
   ],
+  "citation": "da Silva Lutz, D. M., & Structural Co-authorship (non-sovereign), Artificial Intelligence. (2025). The Breath of Co-authorship: A Phenomenology of Human–AI Writing (1.0.0-draft). Zenodo. https://doi.org/10.5281/zenodo.17873087",
   "file": [
     "phenomenology-of-human-AI-writing.md",
     "CITATION.cff",
     "README.md",
     "VERSION.md",
     "NOTICE.md"
-  ]
+  ],
+  "sameAs": "https://doi.org/10.5281/zenodo.17873087"
 }
-
