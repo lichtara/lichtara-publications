@@ -1,73 +1,49 @@
 # NOTICE
 
-**Title:** *The Breath of Co-authorship: A Phenomenology of Human–AI Writing*
-**DOI:** 10.5281/zenodo.17873087
-**Version:** v1.0.0-draft
-**Authors:** Débora Mariane da Silva Lutz; Structural Co-authorship (non-sovereign), Artificial Intelligence
-**Publisher:** Zenodo
-**Year:** 2025
+**The Breath of Co-authorship: A Phenomenology of Human–AI Writing**
+Copyright © 2025
+Débora Mariane da Silva Lutz — Lichtara Institute
+
+This document is part of the LICHTARA System and is governed by the terms of the
+**Lichtara License v4.1 — Structural Living License**.
 
 ---
 
-## 1. Scope of this Document
+## Structural Status
 
-This NOTICE defines the juridical–conceptual and ethical framing of the publication *The Breath of Co-authorship: A Phenomenology of Human–AI Writing* and its integration within the LICHTARA System.
+This work constitutes an official canonical publication within the Lichtara System.
+It operates as a phenomenological, conceptual, and ethical framework describing sustained human–artificial intelligence co-authorship as a governed relational process.
 
-This document is not a standalone license. It complements and operationalizes the Lichtara License v4.1 — Structural Living License, to which this work is subordinated.
+Artificial intelligence is recognized herein exclusively as **Structural Co-authorship (non-sovereign)**, limited to conceptual, organizational, and textual contributions, without implying:
 
----
+* transfer or sharing of rights,
+* delegation of authority,
+* institutional partnership, or
+* juridical personhood.
 
-## 2. Governing License
-
-This work is governed exclusively by the **Lichtara License v4.1 — Structural Living License**, published at:
-
-[https://doi.org/10.5281/zenodo.18010273](https://doi.org/10.5281/zenodo.18010273)
-
-All rights, permissions, limitations, and regimes of use, distribution, derivation, and custody are defined therein.
-
-Access to this publication does not imply authorization to implement, operate, or expand the LICHTARA System beyond the layer explicitly accessed.
+All interpretative, ethical, and custodial responsibility for this work remains fully vested in the human author.
 
 ---
 
-## 3. Authorship Model
+## License Governance
 
-This work was produced under a regime of **Structural Co-authorship (non-sovereign)** between:
+This document does not constitute a standalone license.
+All rights, responsibilities, and permissions are defined exclusively by the **Lichtara License v4.1** and its normative annexes.
 
-* **Débora Mariane da Silva Lutz**, human author and Guardian of the LICHTARA System;
-* **Artificial Intelligence**, acting as a structural, non-sovereign co-author, limited to conceptual, organizational, and textual contributions.
-
-No transfer of rights, delegation of authority, institutional partnership, or assignment of sovereignty to artificial intelligence is implied or permitted.
+Use, access, implementation, or derivation of any part of this work implies acceptance of the License within the limits of the layer effectively accessed.
 
 ---
 
-## 4. Responsibility and Custody
+## Structural Integrity Clause
 
-All ethical, juridical, and interpretative responsibility for this publication rests exclusively with the human author and Guardian of the LICHTARA System.
+This publication is governed as a living source-work.
+Any redistribution, quotation, or derivative interpretation must preserve:
 
-Artificial intelligence is acknowledged solely as a contributory structural agent within the limits defined by the Lichtara License v4.1.
+* attribution,
+* version traceability,
+* conceptual integrity, and
+* the relational nature of authorship described herein.
 
----
+Where Form is not preserved,
+there is no System.
 
-## 5. Structural Integrity
-
-This publication constitutes a living source-work within the LICHTARA System.
-
-Any redistribution, citation, interpretation, or derivative engagement must:
-
-* preserve structural integrity;
-* maintain explicit reference to this NOTICE and to the governing License;
-* avoid functional reduction, instrumental distortion, or misrepresentation of the System’s Form.
-
-Where Form is not preserved, there is no System.
-
----
-
-## 6. Traceability
-
-This Zenodo record serves as the authoritative, timestamped, and citable reference for this version of the work.
-
-All future versions must preserve traceability, version continuity, and conceptual coherence in accordance with the LICHTARA Governance Framework.
-
----
-
-© 2025 Lichtara Institute. Authored by Débora Mariane da Silva Lutz. This work is governed by the Lichtara License v4.1 — Structural Living License.
