@@ -1,4 +1,4 @@
-# 1. Introdução
+# Introdução
 
 **Introdução à Tecnologia de Integração Consciente (TIC)**, conforme detalhado nas fontes fornecidas.
 
