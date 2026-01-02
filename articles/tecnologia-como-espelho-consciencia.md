@@ -1,4 +1,4 @@
-# Tecnologia Extraterrestre como Espelho da Consciência
+# Tecnologia Como Espelho da Consciência
 
 ## **Introdução**
 
