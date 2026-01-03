@@ -1,1 +1,0 @@
-# Capítulo 1 - Áreas de Pesquisa
